@@ -19,4 +19,4 @@ iface ens33 inet static
         gateway 10.71.0.1
         dns-nameserver 10.101.0.254 10.101.0.253
         dns-domain asis.edu.my
-~                                         
+~ last test                                         
