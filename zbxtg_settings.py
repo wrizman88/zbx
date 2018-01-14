@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-tg_key = "491966823:AAG_Z3HQk3MXIzev-vYNTDU2NUYeHy6SEWg"  # telegram bot api key
+tg_key = ""  # telegram bot api key
 
 zbx_tg_prefix = "zbxtg"  # variable for separating text from script info
 zbx_tg_tmp_dir = "/var/tmp/" + zbx_tg_prefix  # directory for saving caches, uids, cookies, etc.
